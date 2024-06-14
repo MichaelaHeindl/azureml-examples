@@ -4,7 +4,7 @@ trigger:
 - none
 
 variables:
-  service-connection: 'mlops2-service-connection' # replace with your service connection name
+  service-connection: 'mlops-connection' # replace with your service connection name
   resource-group: 'aml-mlops' # replace with your resource group name
   workspace: 'aml01' # replace with your workspace name
 
