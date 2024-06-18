@@ -56,4 +56,4 @@ jobs:
       serviceConnection: 'mlops-connection'
       resourceGroupName: 'aml-mlops'
       azureMLWorkspaceName: 'aml01'
-      azureMLJobName: $azureml_job_name_from_submit_job
+      azureMLJobName: nyc_taxi_data_regression_single_job
